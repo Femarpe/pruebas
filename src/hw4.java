@@ -24,3 +24,4 @@ public class hw4 {
         System.out.println("\nYour message contains the letter 'a' " + numerodeA + " times. \nIsn't that interesting?");
     }
 }
+
